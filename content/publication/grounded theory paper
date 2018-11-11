@@ -1,0 +1,26 @@
++++
+abstract = "Grounded theory is a commonly used research methodology. There are three primary approaches to grounded theory in nursing research: those espoused by Glaser, Strauss and Corbin, and Charmaz. All three approaches use similar procedures, yet there are important differences among them, which implies that researchers need to make careful choices when using grounded theory. Researchers new to grounded theory need to find the most appropriate approach that fits their research field, topic, and researcher position. In this article, we compare the three grounded theory approaches. Choices of a grounded theory approach will depend on the researcher’s understanding of the philosophical underpinnings of all three approaches. Practical aspects of grounded theory approaches should match the information processing styles and analytical abilities of the researcher and the intended use of the theory. We illustrate key aspects of decision making about which method to select by drawing upon the first author’s experiences in his doctoral research."
+abstract_short = "In this article, we compare the three most frequently used grounded theory approaches in nursing, and discuss how to select an appropriate approach for a given research context."
+authors = ["Singh, S & Estefan, A"]
+date = "2015-06-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "In *Global Qualitative Nursing Research*."
+publication_short = "In *GQNR*"
+selected = true
+title = "Selecting a Grounded Theory Approach for Nursing Research"
+url_code = ""
+url_dataset = ""
+url_pdf = "https://doi.org/10.1177/2333393618799571"
+url_project = ""
+url_slides = ""
+url_video = ""
+
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "COLOURBOX4978373.jpg"
+caption = "My caption :smile:"
+
++++
